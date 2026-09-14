@@ -2,9 +2,20 @@
 
 **Tableau | Business Intelligence | KPI Reporting**
 
+# Regional Sales Comparison Dashboard
+
+**Tableau | Business Intelligence | KPI Reporting**
+
 ## 📊 Live Dashboard
 
-🚀 **[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/roshan.paudel1407/viz/RegionalSalesComparisonDashboard_17893581260410/SalesComparisonsbyRegion?publish=yes)**
+🚀 **[View Interactive Tableau Dashboard](YOUR_TABLEAU_PUBLIC_LINK)**
+
+Explore regional sales performance, KPIs, customer activity, orders,
+products, and sales trends through the interactive Tableau dashboard.
+
+## Dashboard Preview
+
+[![Regional Sales Comparison Dashboard](images/dashboard.png)](YOUR_TABLEAU_PUBLIC_LINK)
 
 Explore regional sales performance, KPIs, customer activity, orders,
 products, and sales trends through the interactive Tableau dashboard.
