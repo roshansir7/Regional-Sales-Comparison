@@ -2,10 +2,6 @@
 
 **Tableau | Business Intelligence | KPI Reporting**
 
-# Regional Sales Comparison Dashboard
-
-**Tableau | Business Intelligence | KPI Reporting**
-
 ## 📊 Live Dashboard
 
 🚀 **[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/roshan.paudel1407/viz/RegionalSalesComparisonDashboard_17893581260410/SalesComparisonsbyRegion?publish=yes)**
