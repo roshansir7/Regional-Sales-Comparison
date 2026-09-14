@@ -1,7 +1,13 @@
-## Dashboard Preview
+# Regional Sales Comparison Dashboard
 
-![Regional Sales Dashboard](images/dashboard.png)
+**Tableau | Business Intelligence | KPI Reporting**
 
+## 📊 Live Dashboard
+
+🚀 **[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/roshan.paudel1407/viz/RegionalSalesComparisonDashboard_17893581260410/SalesComparisonsbyRegion?publish=yes)**
+
+Explore regional sales performance, KPIs, customer activity, orders,
+products, and sales trends through the interactive Tableau dashboard.
 ## Project Summary
 
 This Tableau project provides an interactive comparison of sales performance between two selected regions.
