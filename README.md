@@ -12,7 +12,7 @@
 
 ## Dashboard Preview
 
-[![Regional Sales Comparison Dashboard](regional-sales-dashboard.png)](https://public.tableau.com/app/profile/roshan.paudel1407/viz/RegionalSalesComparisonDashboard_17893581260410/SalesComparisonsbyRegion?publish=yes)
+[![Regional Sales Comparison Dashboard](regional-sales-dashboard.png)]
 
 Explore regional sales performance, KPIs, customer activity, orders,
 products, and sales trends through the interactive Tableau dashboard.
