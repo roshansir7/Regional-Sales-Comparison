@@ -1,4 +1,6 @@
-# Regional Sales Comparison Dashboard
+## Dashboard Preview
+
+![Regional Sales Dashboard](images/dashboard.png)
 
 ## Project Summary
 
