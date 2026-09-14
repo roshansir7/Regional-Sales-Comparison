@@ -8,14 +8,13 @@
 
 ## 📊 Live Dashboard
 
-🚀 **[View Interactive Tableau Dashboard](YOUR_TABLEAU_PUBLIC_LINK)**
+## 📊 Live Dashboard
 
-Explore regional sales performance, KPIs, customer activity, orders,
-products, and sales trends through the interactive Tableau dashboard.
+🚀 **[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/roshan.paudel1407/viz/RegionalSalesComparisonDashboard_17893581260410/SalesComparisonsbyRegion?publish=yes)**
 
 ## Dashboard Preview
 
-[![Regional Sales Comparison Dashboard](images/dashboard.png)](YOUR_TABLEAU_PUBLIC_LINK)
+[![Regional Sales Comparison Dashboard](regional-sales-dashboard.png)](https://public.tableau.com/app/profile/roshan.paudel1407/viz/RegionalSalesComparisonDashboard_17893581260410/SalesComparisonsbyRegion?publish=yes)
 
 Explore regional sales performance, KPIs, customer activity, orders,
 products, and sales trends through the interactive Tableau dashboard.
